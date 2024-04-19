@@ -1,2 +1,2 @@
 # curso-git
- Curso de git e github
+ Curso de git e github do curso em vídeo
